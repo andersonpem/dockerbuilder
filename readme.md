@@ -26,7 +26,7 @@ WIP
   ./install.sh
   ```
 
-After running this command, you'll be able to use the skey command globally.
+After running this command, you'll be able to use dbd or dockerbuilder command globally.
 
 ## Contributors
 
